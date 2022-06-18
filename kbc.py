@@ -27,6 +27,7 @@ def answer():
     ["2.bhopal","4.Delhi"],
     ["1.softwere Engineering","3.Agriculture"],
     ["2.Jeff","4.Bill gates"]
+]
     return answer_list
 A=answer()
 print("******KAUN BANEGA CROREPATI  (KBC)*******")
